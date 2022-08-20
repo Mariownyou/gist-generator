@@ -1,0 +1,30 @@
+## SQL
+
+### Тренажёр
+
+[Как пользоваться тренажёром](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+
+- [ ] Решить задания 1-5 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 6-9 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 10-14 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 15-17 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 18-23 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 23-28 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 28-32 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 33-39 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 40-44 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 45-49 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 50-54 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 55-59 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 60-64 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 65-69 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 70-74 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 75-79 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 80-84 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 85-89 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 90-94 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 95-99 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 100-104 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 105-109 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 110-114 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
+- [ ] Решить задания 115-119 из [тренажёра по SQL](https://gist.github.com/dvmn-tasks/61ed775043b24f52595109ddc4562c35)
