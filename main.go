@@ -23,6 +23,10 @@ type Gist struct {
 	Files       map[string]map[string]string `json:"files"`
 }
 
+type Response struct {
+	Url string `json:"url"`
+}
+
 func main() {
 	isWeekly := false
 	if len(os.Args) == 3 {
@@ -106,5 +110,13 @@ func createGist(body string) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Printf("%s\n", bodyText)
+
+	var response Response
+	if err := json.Unmarshal([]byte(bodyText), &response); err != nil {
+        panic(err)
+    }
+	url := response.Url
+	urlSplit := strings.Split(url, "/")
+	id := urlSplit[len(urlSplit)-1]
+	fmt.Printf("https://gist.github.com/Mariownyou/%s\n", id)
 }

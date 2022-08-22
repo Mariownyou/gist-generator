@@ -1,3 +1,3 @@
-module gist-generator
+module ggist
 
 go 1.17
