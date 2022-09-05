@@ -69,10 +69,12 @@ func parseFiles(files []string, desc string, public bool) string {
 		filename := splitFile[len(splitFile)-1]
 
 		contentStr := string(content)
+
+		if len(os.Args) > 1 {
+			desc = fmt.Sprintf("план для %s", os.Args[1])
+		}
+		
 		if filesLen == 1 {
-			if len(os.Args) > 1 {
-				desc = fmt.Sprintf("план для %s", os.Args[1])
-			}
 			if len(os.Args) > 2  {
 				contentStr = strings.Replace(string(content), "<PLAN>", os.Args[2], 1)
 			}
@@ -91,7 +93,6 @@ func parseFiles(files []string, desc string, public bool) string {
 }
 
 func createGist(body string) {
-	// create gist
 	client := &http.Client{}
 	var data = strings.NewReader(body)
 	req, err := http.NewRequest("POST", "https://api.github.com/gists", data)
